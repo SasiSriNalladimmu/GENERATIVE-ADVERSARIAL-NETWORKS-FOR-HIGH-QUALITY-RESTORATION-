@@ -47,8 +47,8 @@ Advanced concepts used:
 
 
 ## 📂 Project Structure
-```
 
+```
 GAN/
 │── data/                # Dataset files
 │── models/              # GAN architecture
@@ -65,7 +65,7 @@ GAN/
 ## 💻 Installation
 
 Clone the repository:
-```bash
+```
 git clone https://github.com/SasiSriNalladimmu/GENERATIVE-ADVERSARIAL-NETWORKS-FOR-HIGH-QUALITY-RESTORATION-.git
 cd GENERATIVE-ADVERSARIAL-NETWORKS-FOR-HIGH-QUALITY-RESTORATION-
 ````
@@ -135,12 +135,10 @@ This project is inspired by research in GAN-based image and video restoration te
 
 ````
 
-
-
 ### ✅ Next step (push it)
 After pasting into `README.md`:
 
-```bash
+```
 git add README.md
 git commit -m "Added professional README"
 git push
