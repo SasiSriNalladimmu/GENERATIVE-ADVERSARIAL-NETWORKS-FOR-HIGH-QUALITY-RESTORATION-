@@ -10,7 +10,7 @@ GAN-based techniques are powerful for:
 - Noise Removal
 - Detail Enhancement
 
----
+
 
 ## 🧠 How GAN Works
 A GAN consists of two neural networks:
@@ -20,7 +20,7 @@ A GAN consists of two neural networks:
 
 Both networks compete with each other, improving the quality of generated outputs over time.
 
----
+
 
 ## ⚙️ Technologies Used
 - Python  
@@ -29,7 +29,7 @@ Both networks compete with each other, improving the quality of generated output
 - NumPy  
 - Matplotlib  
 
----
+
 
 ## 🏗️ Model Architecture
 - Generator Network (CNN-based)
@@ -44,16 +44,17 @@ Advanced concepts used:
 - Temporal Consistency (for video)
 - Spatio-temporal learning
 - Frame enhancement techniques
-```
+  
 
-## 💻 Installation
+### 💻 Installation
 Clone the repository:
-```
+
+```bash
 git clone https://github.com/SasiSriNalladimmu/GENERATIVE-ADVERSARIAL-NETWORKS-FOR-HIGH-QUALITY-RESTORATION-.git
 cd GENERATIVE-ADVERSARIAL-NETWORKS-FOR-HIGH-QUALITY-RESTORATION-
 ```
 
-Install dependencies:
+## Install dependencies:
 
 ```bash
 pip install -r requirements.txt
