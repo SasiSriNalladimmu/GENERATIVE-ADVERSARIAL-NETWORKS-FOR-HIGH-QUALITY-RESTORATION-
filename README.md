@@ -1,4 +1,4 @@
-```md
+
 # 🚀 Generative Adversarial Networks for High-Quality Restoration
 
 ## 📌 Project Overview
@@ -44,31 +44,14 @@ Advanced concepts used:
 - Temporal Consistency (for video)
 - Spatio-temporal learning
 - Frame enhancement techniques
-
-
-## 📂 Project Structure
-
 ```
-GAN/
-│── data/                # Dataset files
-│── models/              # GAN architecture
-│── training/            # Training scripts
-│── results/             # Output results
-│── utils/               # Helper functions
-│── main.py              # Main execution file
-│── requirements.txt     # Dependencies
-
-````
-
-
 
 ## 💻 Installation
-
 Clone the repository:
 ```
 git clone https://github.com/SasiSriNalladimmu/GENERATIVE-ADVERSARIAL-NETWORKS-FOR-HIGH-QUALITY-RESTORATION-.git
 cd GENERATIVE-ADVERSARIAL-NETWORKS-FOR-HIGH-QUALITY-RESTORATION-
-````
+```
 
 Install dependencies:
 
@@ -133,7 +116,7 @@ This project is for educational and research purposes.
 
 This project is inspired by research in GAN-based image and video restoration techniques.
 
-````
+
 
 ### ✅ Next step (push it)
 After pasting into `README.md`:
